@@ -3,7 +3,7 @@
         var settings = $.extend({
             phone: '',
             message: '',
-            size: '72px',
+            size: '60px',
             backgroundColor: '#25D366',
             position: 'left',
             popupMessage: '',
